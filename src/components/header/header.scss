@@ -22,7 +22,16 @@
   
       .option {
         padding: 10px 15px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
       }
+    }
+
+    .header-user-photo {
+      border-radius: 50%;
+      width: 50px;
+      margin-left: 10px;
     }
   }
   
